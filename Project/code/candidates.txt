@@ -1,0 +1,17 @@
+FAANews R
+AirbusGroup M
+Boeing M
+GulfstreamAero M
+LockheedMartin M
+BoeingAirplanes M
+icao R
+EASA R
+Bombardier M
+thalesgroup C
+GEAviation C
+Honeywell_Aero C
+UTC C
+RockwellCollins C
+finmeccanicaweb C
+Raytheon M
+BAESystemsAir M
