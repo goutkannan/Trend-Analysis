@@ -1,1 +1,0 @@
-"Infra-Red Laser Development" project looking a solution to be able to communicate at speeds of 1Gb per second http://t.co/TAWMJKGEZm
